@@ -1,0 +1,6 @@
+{
+  "name": "Samsung OneLauncher Pro",
+  "description": "Premium OneUI-inspired Android launcher with smart folders, 3D rotating app carousel, dynamic widgets, gestures, and smooth animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
